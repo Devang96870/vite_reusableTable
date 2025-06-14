@@ -84,7 +84,7 @@ Let me know if you'd like a version with your GitHub username or a link to the a
 
 A simple React + TypeScript application that displays a list of invoices using a reusable `DataTable` component.
 
-![Invoice Table Screenshot](./assets/reusable_table_screensort.png)
+![Invoice Table Screenshot](./src/assets/reusable_table_screensort.png)
 
 ## ✨ Features
 
