@@ -94,3 +94,4 @@ A simple React + TypeScript application that displays a list of invoices using a
 - 📱 Responsive layout
 - 📊 Customizable column alignment
 
+Project Link : https://reusablevitetable.netlify.app/
